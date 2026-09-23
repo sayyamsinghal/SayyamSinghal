@@ -1,5 +1,6 @@
-# 💫 About Me:
- Hi, I'm Sayyam Singhal<br><br>I'm an MCA (Master of Computer Applications) student passionate about software engineering, full-stack development, and problem-solving.<br><br> ⚡ About Me<br><br>- 🔭 **I’m currently working on** CampusCode<br>- 👯 **I’m looking to collaborate on** Open-source web projects and software tools<br>- 🌱 **I’m currently learning** Data Structures & Algorithms, React, and Node.js<br>- 💬 **Ask me about** Web Development, SQL/NoSQL Databases, Java, or Python<br>- 📫 How to reach me sayyamsinghal2005@gmail.com<br>-⚡ **Fun fact** My code works on the first try... in my head!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sayyam Singhal
+=======================================================================================================================================
+ I'm an MCA (Master of Computer Applications) student passionate about software engineering, full-stack development, and problem-solving.<br><br> ⚡ About Me<br><br>- 🔭 **I’m currently working on** CampusCode<br>- 👯 **I’m looking to collaborate on** Open-source web projects and software tools<br>- 🌱 **I’m currently learning** Data Structures & Algorithms, React, and Node.js<br>- 💬 **Ask me about** Web Development, SQL/NoSQL Databases, Java, or Python<br>- 📫 How to reach me sayyamsinghal2005@gmail.com<br>-⚡ **Fun fact** My code works on the first try... in my head!
 
 
 ## 🌐 Socials:
@@ -8,7 +9,12 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+Support Me
 
----
+ <p style="list-style-type: none; margin: 0;"></p>
+
+<p style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Sayyam Singhal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></p>
+
+
 
 
